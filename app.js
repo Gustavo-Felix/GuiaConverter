@@ -13,7 +13,8 @@ async function main() {
 
     console.log(users.header)
     console.log(users.rows)
-    
+    console.log(users.RowCount)
+    console.log(users.ColumnCount)
 }
 
 main()
